@@ -11,35 +11,36 @@
       "city": "Berlin",
       "countryCode": "DE",
       "region": "Berlin"
-    },
+    }
+  },
   "work": [
     {
       "name": "TU Berlin",
       "position": "Research Assistant/Ph.D. Student",
       "startDate": "2024-05-01",
       "endDate": "ongoing",
-      "summary": "Ph.D. student at TU Berlin",
+      "summary": "Ph.D. student at TU Berlin"
     },
     {
       "name": "Leibniz University Hannover",
       "position": "Research Assistant/Ph.D. Student",
       "startDate": "2021-05-06",
       "endDate": "2024-04-30",
-      "summary": "Ph.D. student at Leibniz University Hannover",
+      "summary": "Ph.D. student at Leibniz University Hannover"
     },
     {
       "name": "University Duisburg-Essen",
       "position": "Student Assistant",
       "startDate": "2019-10-01",
       "endDate": "2020-01-01",
-      "summary": "Hosting project groups of Laboratory section for Database lecture of Bachelor study.",
+      "summary": "Hosting project groups of Laboratory section for Database lecture of Bachelor study."
     },
     {
       "name": "Newcapec Electronics Co., Ltd.",
       "position": "Software Engineer (internship)",
       "startDate": "2017-01-01",
       "endDate": "2017-06-01",
-      "summary": "Developing communication module using WebSocket protocol for IoT Device Platform. Service deployment and management of the Platform.",
+      "summary": "Developing communication module using WebSocket protocol for IoT Device Platform. Service deployment and management of the Platform."
     }
   ],
   "education": [
@@ -50,7 +51,7 @@
       "area": "Data Integration and Data Processing",
       "studyType": "Ph.D.",
       "startDate": "2024-05-01",
-      "endDate": "ongoing",
+      "endDate": "ongoing"
     },
     {
       "institution": "Leibniz University Hannover",
@@ -59,7 +60,7 @@
       "area": "Data Integration and Data Processing",
       "studyType": "Ph.D.",
       "startDate": "2021-05-06",
-      "endDate": "2024-04-30",
+      "endDate": "2024-04-30"
     },
     {
       "institution": "University Duisburg-Essen, Duisburg, Germany",
@@ -69,7 +70,7 @@
       "studyType": "M. Sc.",
       "startDate": "2017-10-01",
       "endDate": "2020-05-25",
-      "score": "1.8",
+      "score": "1.8"
     },
     {
       "institution": "Zhengzhou-University, Zhengzhou, China",
@@ -79,7 +80,7 @@
       "studyType": "Bachelor",
       "startDate": "2013-09-01",
       "endDate": "2017-06-30",
-      "score": "3.0/4.0",
+      "score": "3.0/4.0"
     }
   ],
   "awards": [
@@ -98,7 +99,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Linux",
-        "Server Maintenance",
+        "Server Maintenance"
       ]
     }
   ],
@@ -135,3 +136,4 @@
       ]
     }
   ]
+}
