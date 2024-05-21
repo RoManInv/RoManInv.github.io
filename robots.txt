@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://romaninv.github.io/sitemap.xml
+Sitemap: https://RoManInv.github.io/sitemap.xml
