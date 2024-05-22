@@ -25,7 +25,7 @@
       "name": "TU Berlin",
       "position": "Research Assistant/Ph.D. Student",
       "startDate": "2024-05-01",
-      "endDate": "ongoing",
+      "endDate": "now",
       "summary": "Ph.D. student at TU Berlin"
     },
     {
@@ -73,7 +73,7 @@
       "area": "Data Integration and Data Processing",
       "studyType": "Ph.D.",
       "startDate": "2024-05-01",
-      "endDate": "ongoing"
+      "endDate": "now"
     },
     {
       "institution": "Leibniz University Hannover",
@@ -108,7 +108,7 @@
   "awards": [
     {
       "title": "First award in BTW 23 Data Science Challenge",
-      "date": "1921-11-01",
+      "date": "2023-03-07",
       "awarder": "BTW 23",
       "url": "https://sites.google.com/view/btw-2023-tud/program/data-science-challenge?authuser=0",
       "summary": "Recommending Alternative Cycling Routes via Predicted Usage Patterns"
@@ -161,7 +161,7 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Beginner",
+      "fluency": "Basic",
       "icon": ""
     }
   ],

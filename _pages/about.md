@@ -6,11 +6,11 @@ subtitle: Research associate at the <a href='https://www.tu.berlin/d2ip'> Data I
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dakai.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>TU Berlin</p>
-    <p>Berlin, Germany</p>
+    <p>Dakai Men</p></br>
+    <p>dakai_men@tu-berlin.de</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

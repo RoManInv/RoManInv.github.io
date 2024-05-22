@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Dakai Men
 nav: true
 nav_order: 5
 description: Research associate at TU Berlin . dakai_men@tu-berlin.de
