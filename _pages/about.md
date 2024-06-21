@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research associate at the <a href='https://www.tu.berlin/d2ip'> Data Integration and Data Preparation (D2IP) group, TU Berlin</a>. dakai_men@tu-berlin.de.
+subtitle: Research associate at the <a href='https://www.tu.berlin/d2ip'> Data Integration and Data Preparation (D2IP) group, TU Berlin</a>. dakai.men@tu-berlin.de.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dakai Men</p></br>
-    <p>dakai_men@tu-berlin.de</p>
+    <p>dakai.men@tu-berlin.de</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
